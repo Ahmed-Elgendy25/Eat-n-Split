@@ -1,5 +1,6 @@
 # Eat-n-Split
 ##Pay for me or, Pay for you.
+
 The idea of project is you can select a friend and split a bill with this friend by inserting the bill value, and your expense and your friend's expense (bill value - your expense). then you choose who is paying the bill. 
 Also you can add friend to select him to pay for his bill or he/she can pay for you.
 
